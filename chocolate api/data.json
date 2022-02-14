@@ -1,0 +1,95 @@
+[
+  {
+    "id": "0",
+    "title": "Gift Box of 12 Truffles",
+    "price": "$34.00",
+    "description": "12-piece box of fine truffles",
+    "poster": "https://static.wixstatic.com/media/8c0f2e_93cfaf7aa9f348f595bc26b0b9a185b6~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_93cfaf7aa9f348f595bc26b0b9a185b6~mv2.webp",
+    "images": [
+      "https://static.wixstatic.com/media/8c0f2e_d55fb84441d3408c9971611b2e5b8b11~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_d55fb84441d3408c9971611b2e5b8b11~mv2.webp",
+      "https://static.wixstatic.com/media/ea26fd_e68128b645ea4931b9ff9dbe6a5a3024~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/ea26fd_e68128b645ea4931b9ff9dbe6a5a3024~mv2.webp",
+      "https://static.wixstatic.com/media/ea26fd_763d3074c9db4de589b925e0b9ef3125~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/ea26fd_763d3074c9db4de589b925e0b9ef3125~mv2.webp",
+      "https://static.wixstatic.com/media/ea26fd_fbc3314f9c654490aed22a6b5a61741a~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/ea26fd_fbc3314f9c654490aed22a6b5a61741a~mv2.webp",
+      "https://static.wixstatic.com/media/ea26fd_ef50f64eabcb46b08440e066f486d077~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/ea26fd_ef50f64eabcb46b08440e066f486d077~mv2.webp",
+      "https://static.wixstatic.com/media/ea26fd_d5630fd7034a4128946abac3455bbc39~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/ea26fd_d5630fd7034a4128946abac3455bbc39~mv2.webp"
+    ],
+    "amount": 1
+  },
+  {
+    "id": "1",
+    "title": "White Chocolate Truffles",
+    "price": "$35.00",
+    "description": "12-piece box of fine truffles",
+    "poster": "https://static.wixstatic.com/media/8c0f2e_fadcefd528b24a829f620d54f62357a6~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_fadcefd528b24a829f620d54f62357a6~mv2.webp",
+    "images": [
+      "https://static.wixstatic.com/media/8c0f2e_7ce6ea401d854d40bd77291369d46219~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_7ce6ea401d854d40bd77291369d46219~mv2.webp"
+    ],
+    "amount": 1
+  },
+  {
+    "id": "2",
+    "title": "White Chocolate & Nuts Truffles",
+    "price": "$37.00",
+    "description": "12-piece box of fine truffles",
+    "poster": "https://static.wixstatic.com/media/8c0f2e_d7bb321a998441fb9f61af202f158aef~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_d7bb321a998441fb9f61af202f158aef~mv2.webp",
+    "images": [
+      "https://static.wixstatic.com/media/8c0f2e_68c2eb004c54433abe12830f306eed62~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_68c2eb004c54433abe12830f306eed62~mv2.webp"
+    ],
+    "amount": 1
+  },
+  {
+    "id": "3",
+    "title": "Milk Chocolate Truffles",
+    "price": "$40.00",
+    "description": "12-piece box of fine truffles",
+    "poster": "https://static.wixstatic.com/media/8c0f2e_6cfa95c5d6494a098886c2d09b2795b5~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_6cfa95c5d6494a098886c2d09b2795b5~mv2.webp",
+    "images": [
+      "https://static.wixstatic.com/media/8c0f2e_fdf7fbd3f3c74607a594811946f04cf7~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_fdf7fbd3f3c74607a594811946f04cf7~mv2.webp"
+    ],
+    "amount": 1
+  },
+  {
+    "id": "4",
+    "title": "Milk Chocolate & Coconut Truffles",
+    "price": "$37.00",
+    "description": "12-piece box of fine truffles",
+    "poster": "https://static.wixstatic.com/media/8c0f2e_a6da6f7ada7b4738936c5a649b200203~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_a6da6f7ada7b4738936c5a649b200203~mv2.webp",
+    "images": [
+      "https://static.wixstatic.com/media/8c0f2e_116f2bea7376459ba1e43b7432a1833b~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_116f2bea7376459ba1e43b7432a1833b~mv2.webp"
+    ],
+    "amount": 1
+  },
+  {
+    "id": "5",
+    "title": "Raspberry Truffles",
+    "price": "$40.00",
+    "description": "12-piece box of fine truffles",
+    "poster": "https://static.wixstatic.com/media/8c0f2e_1822b3afaedb4932a2fc81307f4fb4a8~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_1822b3afaedb4932a2fc81307f4fb4a8~mv2.webp",
+    "images": [
+      "https://static.wixstatic.com/media/8c0f2e_8123308045d34981ae9d207545a23f05~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_8123308045d34981ae9d207545a23f05~mv2.webp"
+    ],
+    "amount": 1
+  },
+  {
+    "id": "6",
+    "title": "Lavender Chocolate Truffles",
+    "price": "$35.00",
+    "description": "12-piece box of fine truffles",
+    "poster": "https://static.wixstatic.com/media/8c0f2e_d8233a75623a4f6380d12e64db5485d6~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_d8233a75623a4f6380d12e64db5485d6~mv2.webp",
+    "images": [
+      "https://static.wixstatic.com/media/8c0f2e_987b51d4e99c4ee9836aa637a920d143~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_987b51d4e99c4ee9836aa637a920d143~mv2.webp"
+    ],
+    "amount": 1
+  },
+  {
+    "id": "7",
+    "title": "Peanut Butter Truffles",
+    "price": "$38.00",
+    "description": "12-piece box of fine truffles",
+    "poster": "https://static.wixstatic.com/media/8c0f2e_8920b077e7b34041864f7bd241a42477~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_8920b077e7b34041864f7bd241a42477~mv2.webp",
+    "images": [
+      "https://static.wixstatic.com/media/8c0f2e_cbc7cb2ffa554934b97b5c4a48947a14~mv2.jpg/v1/fill/w_520,h_420,al_c,q_85,usm_0.66_1.00_0.01/8c0f2e_cbc7cb2ffa554934b97b5c4a48947a14~mv2.webp"
+    ],
+    "amount": 1
+  }
+]
